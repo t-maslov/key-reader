@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="278ed980-30f9-4d7c-8aa9-09f1ec0cf9d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDA1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDA2.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDA3.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDADLM.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDAL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDARME.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDARMW.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDAZE.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDAZEL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDAZST.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBASH.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBE.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBENE.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBGPH.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBGPH1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBHC.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBLR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBU.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBUG.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDBULG.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDCA.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDCAN.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDCHER.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDCHERP.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDCR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDCZ.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDCZ1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDCZ2.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDDA.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDDIV1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDDIV2.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDDV.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDDZO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDES.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDEST.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDFA.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDFC.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDFI.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDFI1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDFO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDFR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDFTHRK.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDGAE.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDGEO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDGKL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDGN.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDGR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDGR1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDGRLND.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDGTHC.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHAU.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHAW.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHE.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHE220.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHE319.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHEB.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHELA2.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHELA3.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHEPT.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHU.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDHU1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDIBO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDIC.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINASA.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINBE1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINBE2.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINBEN.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINDEV.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINEN.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINGUJ.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINHIN.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINKAN.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINMAL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINMAR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINORI.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINPUN.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINTAM.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINTEL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDINUK2.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDIR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDIT.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDIT142.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDIULAT.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDJAV.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDJPN.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDKAZ.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDKHMR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDKNI.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDKOR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDKURD.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDKYR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDLA.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDLAO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDLT.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDLT1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDLT2.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDLV.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDLV1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDLVST.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDMAC.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDMACST.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDMAORI.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDMLT47.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDMLT48.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDMON.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDMONMO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDMONST.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDMYAN.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDNE.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDNEPR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDNO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDNO1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDNSO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDNTL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDOGHAM.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDOLCH.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDOLDIT.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDOSA.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDOSM.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDPASH.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDPL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDPL1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDPO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDRO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDROPR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDROST.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDRU.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDRU1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDRUM.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSF.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSG.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSL1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSMSFI.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSMSNO.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSN1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSORA.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSOREX.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSORS1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSORST.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSP.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSW.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSW09.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSYR1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDSYR2.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTAILE.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTAJIK.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTAM99.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTAT.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTH0.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTH1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTH2.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTH3.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTIFI.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTIFI2.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTIPRC.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTIPRD.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTT102.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTUF.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTUQ.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTURME.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDTZM.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUGHR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUGHR1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUK.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUKX.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUR1.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDURDU.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUS.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUSA.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUSL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUSR.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUSX.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDUZB.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDVNTC.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDWOL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDYAK.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDYBA.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDYCC.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/KBDYCL.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbd101.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbd101a.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbd101b.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbd101c.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbd103.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbd106.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbd106n.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdarmph.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdarmty.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdax2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdfar.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdgeoer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdgeome.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdgeooa.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdgeoqw.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdhebl3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdibm02.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdlisub.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdlisus.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdlk41a.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdnec.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdnec95.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdnecat.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdnecnt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdnko.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/kbdphags.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard drivers/keyboard_layouts.reg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3LQfhb2j9CqFoH9rY4vp8lwV8St" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.keyboard-testing.executor": "Debug",
+    "Python.ten-letters-layout.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/GitHub/key-reader"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="278ed980-30f9-4d7c-8aa9-09f1ec0cf9d9" name="Changes" comment="" />
+      <created>1793391331945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793391331945</updated>
+    </task>
+    <servers />
+  </component>
+</project>
