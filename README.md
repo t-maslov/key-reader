@@ -10,6 +10,8 @@ https://www.researchgate.net/publication/324659119_Observations_on_Typing_from_1
 Определение важных характеристик из данных, чтобы с ними можно как-то взаимодействовать
 Правильность написания слов
 Специальные символы
+### Корпус многих иностранных языков с подробной статистикой
+https://corpora.uni-leipzig.de/en?corpusId=eng_news_2024
 
 ## Раскладки клавиатур
 https://kbdlayout.info/
