@@ -12,6 +12,8 @@ https://www.researchgate.net/publication/324659119_Observations_on_Typing_from_1
 Специальные символы
 ### Корпус многих иностранных языков с подробной статистикой
 https://corpora.uni-leipzig.de/en?corpusId=eng_news_2024
+### Печатание
+https://www.researchgate.net/publication/362529170_Typing_expertise_in_a_large_student_population
 
 ## Раскладки клавиатур
 https://kbdlayout.info/
